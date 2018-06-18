@@ -1,7 +1,7 @@
 let userAccessToken = '';
 const spotifyUrl = 'https://accounts.spotify.com/authorize'
 const clientID = 'f4b81513a7c446bea1d9451bcd126f71';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'http://petejamming.surge.sh';
 
 
 let Spotify = {
